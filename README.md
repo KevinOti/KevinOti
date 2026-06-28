@@ -8,7 +8,13 @@ I design and build the automated data pipelines and data infrastructure that mod
 - **Data Workflow:** Automated Scheduling, Exception Logging, Error Handling Systems
 
 ### 📌 Featured Pipelines & Automation Infrastructure
-- **[Automated FMCG Executive Performance Engine](LINK_TO_REPO)**
+
   - *Tech:* Python, SQL Server, Jinja2, SMTP APIs
   - *Impact:* Automated 85% of multi-channel distribution data pipelines, delivering live metrics directly to executive email bodies with zero manual oversight.
+
+# Professional Engineering Portfolio
+
+This repository houses the front-facing pipeline deployment for my analytics architecture.
+
+
 
